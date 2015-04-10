@@ -1,0 +1,2 @@
+# BaseActivity
+活动的启动模式之singleInstance;技术亮点1.baseactivity的书写2.用ActivityCollector管理所有活动
